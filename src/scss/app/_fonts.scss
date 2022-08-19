@@ -1,1 +1,8 @@
-@include font-face("Roboto", 400, "../fonts/roboto-regular");
+@include font-face("Manrope", 400, "../fonts/Manrope-Regular");
+@include font-face("Manrope", 300, "../fonts/Manrope-Light");
+@include font-face("Manrope", 600, "../fonts/Manrope-SemiBold");
+@include font-face("Manrope", 700, "../fonts/Manrope-Bold");
+
+@include font-face("Montserrat Alt", 500, "../fonts/MontserratAlternates-Medium");
+@include font-face("Montserrat Alt", 600, "../fonts/MontserratAlternates-SemiBold");
+@include font-face("Montserrat Alt", 700, "../fonts/MontserratAlternates-Bold");
