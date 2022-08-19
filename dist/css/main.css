@@ -185,7 +185,7 @@ button {
   .nav {
     position: fixed;
     left: 0;
-    bottom: 100vh;
+    bottom: 150vh;
     width: 100%;
     height: 100vh;
     background: rgba(51, 51, 51, 0.7);
