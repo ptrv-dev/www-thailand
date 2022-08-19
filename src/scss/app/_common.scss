@@ -9,6 +9,7 @@ body {
 	font-size: $font-size;
 	color: $font-color;
 	background: $body-background;
+	height: 100%;
 }
 
 .container {
@@ -64,4 +65,8 @@ button {
 		padding: 22px 55px;
 		background: none;
 	}
+}
+
+.section {
+	padding: 100px 0;
 }
