@@ -53,8 +53,14 @@ button {
 	color: $black;
 	padding: 15px 40px;
 
+	transition: box-shadow .3s, background .3s;
+
 	.arrow-icon {
 		margin-left: 18px;
+	}
+	&:hover {
+		box-shadow: 0px 10px 25px -10px rgba(191, 142, 95, 0.4);
+		background: rgba(191, 142, 95, 1);
 	}
 	// .button_o
 
